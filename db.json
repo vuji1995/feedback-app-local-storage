@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "Slow restaurant staff, good food, there is a lot of room for improvement.",
+      "rating": 6,
+      "id": 1
+    },
+    {
+      "text": "Great local food and wine!",
+      "rating": 10,
+      "id": 2
+    }
+  ]
+}
